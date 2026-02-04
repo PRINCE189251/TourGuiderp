@@ -1,0 +1,9 @@
+{
+  "name": "AuraGuide AI",
+  "description": "A high-end, AI-powered travel concierge that provides real-time voice guidance, personalized itineraries, and visual exploration of global destinations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
